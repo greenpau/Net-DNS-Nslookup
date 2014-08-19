@@ -11,7 +11,7 @@ all:
 
 build:
 	@echo "Running build locally ..."
-	@tar cvzf Net-DNS-Nslookup-1.0.tar.gz Net-DNS-Nslookup
+	@tar cvzf ${APP_NAME}-${APP_VERSION}.tar.gz ${APP_NAME}
 
 clean:
 	@echo "Running cleanup ... it is empty function"
