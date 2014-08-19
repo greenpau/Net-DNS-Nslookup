@@ -1,5 +1,5 @@
 Net::DNS::Nslookup version 1.0
-==================================
+==============================
 
   Perl wrapper for nslookup utility.
   This module provides a simple way to resolve a DNS name to an IP address.
